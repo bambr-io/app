@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Bambr App",
+    "slug": "bambr",
+    "userInterfaceStyle": "light",
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
